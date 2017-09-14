@@ -1,0 +1,16 @@
+*.pyc
+*/CMakeFiles/
+*/CMakeCache.txt
+intro_to_cpp/intro
+*.so
+*/Makefile
+*.cmake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
