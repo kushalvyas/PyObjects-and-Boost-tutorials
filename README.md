@@ -1,5 +1,7 @@
-# kushal-seminar
-Setup Script for Kushal's Seminar
+# README
+
+
+## Setup Script for installation of dependencies
 
 ## Usage
 
@@ -8,3 +10,6 @@ Setup Script for Kushal's Seminar
 3. Shift+Right Click, and select "Open in Terminal"
 4. type `sudo ./setup.sh`
 5. Type the password when prompted
+
+
+## All code is contained in the demo folder. 
